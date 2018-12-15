@@ -1,0 +1,19 @@
+Vendors,Blocked,"User dependent",Compromised,FPs
+Avast,99.6,0,0.4,1
+AVG,99.6,0,0.4,1
+Avira,100,0,0,0
+Bitdefender,100,0,0,1
+BullGuard,97.8,0,2.2,3
+Emsisoft,96.9,0,3.1,0
+ESET,98.2,0,1.8,0
+F-Secure,100,0,0,29
+K7,99.6,0,0.4,3
+"Kaspersky Lab",99.6,0,0.4,0
+McAfee,100,0,0,0
+Microsoft,96.4,3.6,0,6
+Panda,100,0,0,1
+"Quick Heal",97.3,1.8,0.9,1
+Symantec,99.6,0.4,0,8
+Tencent,99.6,0,0.4,1
+"Trend Micro",100,0,0,10
+VIPRE,99.1,0,0.9,1
